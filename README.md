@@ -1,2 +1,2 @@
 # campus_cafe_sales
-Practice repository for DSC582: version control with a small sales dataset
+A small data analysis project used to practise version control with Git, GitHub and GitHub Desktop in **DSC582 Data Science Toolbox**.
