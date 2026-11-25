@@ -3,3 +3,5 @@ A small data analysis project used to practise version control with Git, GitHub 
 
 Line added at local copy.
 Line added at remote (central) copy.
+
+a new line here 
